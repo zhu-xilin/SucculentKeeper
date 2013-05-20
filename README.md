@@ -13,6 +13,7 @@ MicroController:
 Arduino Due
 
 Shield & Sensors:
+
 1. Sensirion SHT11 digital humidity and temperature sensor with protect suit × 1;
 
 2. DFRobot Arduino IIC/I2C LCD2004 × 1;
