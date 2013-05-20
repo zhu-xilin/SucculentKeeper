@@ -19,6 +19,5 @@ Shield & Sensors:
 
 SOFTWARE
 ========
-
 Version: v0.1beta
 Date: 
